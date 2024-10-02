@@ -28,4 +28,3 @@ func move_platform():
 	platform_tween.tween_property(self, "follow", Vector2.ZERO, duration).set_delay(duration + WAIT_DURATION * 2)
 	
 	
-	
